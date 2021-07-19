@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Lior Bedok ;)
+- 👋 Hi, I’m Lior Bedok, 17-year-old full-stack programmer from Ashdod, Israel.
+- 
 - 👀 I’m interested in Fullstack development, especially MERN stack
 - 🌱 I’m currently continiue learning more and more libraries and frameworks
 - 💞️ I’m looking to collaborate on every fullstack project that i can :)
